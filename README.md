@@ -6,4 +6,4 @@ A responsive site was built using bootstrap
 
 HTML5,BOOTSTRAP,Bootstrap icons
 
-![](ekran4.gif)
+![](ekrann.gif)
