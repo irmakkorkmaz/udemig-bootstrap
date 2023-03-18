@@ -3,3 +3,5 @@
 <h2>kullanılan teknoloji</h2>
 
    HTML5 , BOOTSTRAP
+
+   ![](ekrann.gif)
