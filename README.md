@@ -1,1 +1,7 @@
-# udemig-bootstrap
+<h1> udemig-bootstrap</h2>
+
+compatible with mobile and tablet
+
+<h2>used technologies </h2>
+
+![](ekrann.gif)
