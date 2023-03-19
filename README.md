@@ -1,1 +1,1 @@
-# bootsrap-udemig
+# udemig-bootstrap
